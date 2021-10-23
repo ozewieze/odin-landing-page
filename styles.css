@@ -12,7 +12,8 @@ body {
   color: #F9FAF8;
 }
 .header {
-  padding-left: 150px;     
+  padding-left: 150px; 
+  padding-bottom: 50px;    
 }
 
 .top {
