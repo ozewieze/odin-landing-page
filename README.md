@@ -1,0 +1,1 @@
+I am going to finish the html/css part of the project by constructing a landing page in which I will practice the skills that i have learned until now. 
